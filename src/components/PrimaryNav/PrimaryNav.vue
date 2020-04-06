@@ -14,7 +14,7 @@ export default class PrimaryNav extends Vue {
 
   data() {
     return {
-      title: 'hello vue',
+      title: 'hello joe',
     }
   }
 }
